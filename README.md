@@ -13,3 +13,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kuroe27&show_icons=true&locale=en" alt="kuroe27" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kuroe27&" alt="kuroe27" /></p>
+<div align="center">
+  <img alt="snake eating my contribution" src="https://github.com/zomeru/zomeru/blob/output/github-contribution-grid-snake-dark.svg">
+</div>
