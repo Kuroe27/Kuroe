@@ -1,22 +1,3 @@
-<h1 align="center"><font color="#ffffff">Hi 👋, I'm Leo Mikko R. Uson</font></h1>
-<h3 align="center"><font color="#ffffff">🌱 I’m currently learning **Javascript/Typescript, React, Node, Express**</font></h3>
-
-<h3 align="center"><font color="#ffffff">Languages and Tools:</font></h3>
-<p align="center"> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-  </a>
-</p>
-
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Kuroe27&label=Profile%20views&color=0e75b6&style=flat" alt="Kuroe27" /> </p>
 
 <div align="center">
