@@ -14,5 +14,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kuroe27&" alt="kuroe27" /></p>
 <div align="center">
-  <img alt="snake eating my contribution" src="https://github.com/zomeru/zomeru/blob/output/github-contribution-grid-snake-dark.svg">
+  <img alt="snake eating my contribution" src="https://github.com/Kuroe27/Kuroe27/blob/output/github-contribution-grid-snake-dark.svg">
 </div>
